@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on [Spring Boot API, Spring MVC , Node, Angular](https://github.com/SwanHtetMorgan/MyFirstSpringBoot.git)
 
-- 🌱 I’m currently learning **Java Core, Spring Boot,React**
+- 🌱 I’m currently building the REST serveice with **Java Core, Spring Boot***
+- I'm currently learning the React for the UI and GO to build the fast microservice
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwanHtetMorgan](https://github.com/SwanHtetMorgan)
 
