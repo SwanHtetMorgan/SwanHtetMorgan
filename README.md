@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swan Htet Aung Phyo</h1>
+<h1 align="center">Hi 👋, I'm SwanHtetMorgan(Swan Htet Aung Phyo)</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swanhtetaungphyo&label=Profile%20views&color=0e75b6&style=flat" alt="swanhtetaungphyo" /> </p>
